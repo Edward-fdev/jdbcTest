@@ -49,7 +49,7 @@ public class Main {
 	public static void readDb(){
 		String url = "jdbc:mysql://localhost/simplon";
 		String login = "root";
-		String pass = "heavenly";
+		String pass = "password";
 		 Connection connect = null;
 		Statement statement = null;
 		ResultSet result = null;
